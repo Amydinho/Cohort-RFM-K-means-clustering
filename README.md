@@ -1,0 +1,2 @@
+# Cohort-RFM-K-means-clustering
+The data in this notebook is of Online Retail of some UK-based. The data is at transactional level. Here I covered some customer segmentation technique -  Cohort Analysis RFM Analysis k-Means Clustering Also data pre-processing and cleaning is done first and then all the above discussed technique is implemented. All the necessary steps and explaination is provided with commenting on the code as well.
